@@ -40,6 +40,7 @@ const LoginPage = () => {
                         </div>
                       </div>
                     </div>
+                    {/* ------------------- SING IN ------------- */}
                     <div className="card-back">
                       <div className="center-wrap">
                         <div className="section text-center">
