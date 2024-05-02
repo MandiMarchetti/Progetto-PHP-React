@@ -3,3 +3,9 @@
 .card {
   background-image: url("https://couleursjapon.com/11940-large_default/dark-blue-japanese-fabric-with-small-flowers-and-hexagons.jpg");
 }
+
+.card-img-top {
+  width: 100%;
+  height: 20vw;
+  object-fit: cover;
+}
